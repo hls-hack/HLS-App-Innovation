@@ -2,7 +2,7 @@
 
 Welcome to the HLS App Innovation Community repository!
 
-This repo is intended to provide resources to be leveraged with our customers or personal training.
+This repo is intended to provide resources to be leveraged with our customers or for personal training.
 
 This is a work in progress and we invite collaborators.  If you're interested in contributing, please reach out to the HLS App Innovation Community.
 
